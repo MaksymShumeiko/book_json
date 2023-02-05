@@ -1,0 +1,32 @@
+{ "author": "Name",
+  "title": "Title",
+  "published_date": "01012023",
+  "country": "Ukraine",
+  "city": "Kharkiv",
+  "publisher": "Bini Publishing", 
+  "printed_material": [ 
+    { 
+    "printed_material_type": 
+    "Child Book, Picture Book, Study Card", 
+    "study_card": [ 
+      { 
+      "card_type": "Animal, Veggie, Fruit, Color", 
+      "animal_type": "Cat, Dog, Fish, Bird", 
+      "veggie_type": "Onion, Tomato, Carrot, Potato", 
+      "fruit_type": "Grape, Lemon, Apple, Banana", 
+      "color_study_card_type": "Red, Blue, Green, Violet", 
+        "study_card_binder": [ 
+          { 
+        "study_card_edition_print_run": "100",
+        "study_card_binder_type": "Hard, Soft", 
+        "study_card_binder_color_type": "B&W, Color", 
+        "child_book_edition": [ 
+          { 
+          "child_book_edition_print_run": "10", 
+          "child_book_binder_type": "Hard", 
+          "child_book_binder_color_type": "Color", 
+            "picture_book_edition": [ 
+              { 
+            "picture_book_edition_print_run": "50", 
+            "picture_book_binder_type": "Soft", 
+            "picture_book_binder_color_type": "B&W"} ] }] }]}]}]}
